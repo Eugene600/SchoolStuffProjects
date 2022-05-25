@@ -20,26 +20,15 @@ int main()
 	mean=total/4;
 	printf("mean=%d\n",mean);
 	
-	switch(mean)
+	switch(4)
 	{
-		case 86:printf("A", mean=100 && mean>=76);
+		case 1 printf("A" mean=100 && mean>=76);
 		break;
 		
-		case 71:printf("B");
-		break;
-		
-		case 57:printf("C");
-		break;
-		
-		case 39:printf("D");
-		break;
-		
-		default:printf("FAIL");
-		break;
 	
 	
 	
-	return 0;
+	
 	}
 	
 	
